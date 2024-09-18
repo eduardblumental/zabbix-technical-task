@@ -235,5 +235,4 @@ _Mums ir sekojošs masīvs: $objects = [4, 5, -3, 15, -2, 19, 6, -2, -4, 20, -17
 
 _Uzrakstīt funkciju, kura aprēķinās, cik pozitīvo, negatīvo, pāra un nepāra skaitļu ir masīvā. Rezultātu pierakstīt sekojošā veidā "Array has x negative, y positive, z odd and w even numbers", kur x, y, z, w ir aprēķina rezultāti._
 
-Lai palaistu funkciju, pārliecinieties, ka Jūsu datorā ir uzstādīts PHP, un izmantojiet komandu:
-bash`php counter.php`
+Lai palaistu funkciju, pārliecinieties, ka Jūsu datorā ir uzstādīts PHP, un izmantojiet komandu: `php counter.php`
